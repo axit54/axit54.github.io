@@ -28,10 +28,7 @@
     - EXPERIENCE
     - PROJECTS 
     - Achievements <br />
-- SERVICES 
-    - TESTIMONIALS <br />
-- BLOG
-- CONTACTS 
+- CONTACT ME
 
 <br /><br />
 
@@ -64,8 +61,8 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-cd developer-portfolio
+git clone hhttps://github.com/<YOUR GITHUB USERNAME>/axit54.github.io.git
+cd axit54.github.io
 ```
 ### Install packages from the root directory
 ```
@@ -214,7 +211,7 @@ yarn start
 <br />
 
 # Usage :joystick:
-### Customize your details for each component in `src/data` [folder](https://github.com/hhhrrrttt222111/developer-portfolio/tree/master/src/data).
+### Customize your details for each component in `src/data` folder.
 
 Eg:
 ```javascript
@@ -241,29 +238,23 @@ export const headerData = {
 ```
 
 #### Data for each component is divided into respective files.
->#### Set website theme in [`src/data/themeData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/themeData.js) and choose your favourite font from [`src/App.css`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/App.css)
+>#### Set website theme in `src/data/themeData.js` and choose your favourite font from `src/App.css`
 
-> #### About You - [`src/data/aboutData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/aboutData.js)
+> #### About You - `src/data/aboutData.js`
 
-> #### Education details - [`src/data/educationData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/educationData.js) 
+> #### Education details - `src/data/educationData.js` 
 
-> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/projectsData.js)
+> #### Enter your Projects - `src/data/projectsData.js`
 
-> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/skillsData.js)
+> #### Add your Skills - `src/data/skillsData.js`
 
-> #### Experience - [`src/data/experienceData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/experienceData.js)
+> #### Experience - `src/data/experienceData.js`
 
-> #### Achievements - [`src/data/achievementData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/achievementData.js)
+> #### Achievements - `src/data/achievementData.js`
 
-> #### Services - [`src/data/servicesData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/servicesData.js)
+> #### Contact Details - `src/data/contactsData.js`
 
-> #### Testimonials - [`src/data/testimonialsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/testimonialsData.js)
-
-> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/blogData.js)
-
-> #### Contact Details - [`src/data/contactsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/contactsData.js)
-
-> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/socialsData.js)
+> #### Social Media Profiles - `src/data/contactsData.js`
 
 ```javascript
 // EXAMPLE
@@ -280,10 +271,6 @@ export const educationData = [
 ```
 
 ### Instructions and format for each section can be found inside the data files.
-<br />
-
-## Setting Up Contacts form :envelope_with_arrow:
-> ### Follow these [instructions](https://github.com/hhhrrrttt222111/developer-portfolio/wiki/Contacts) to connect contacts form with Google Sheet
 
 <br />
 
