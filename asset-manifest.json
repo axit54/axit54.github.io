@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.919d3f44.chunk.css",
+    "main.css": "/static/css/main.7c0c3ec7.chunk.css",
     "main.js": "/static/js/main.4dcbfc58.chunk.js",
     "main.js.map": "/static/js/main.4dcbfc58.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9394a1db.js",
@@ -12,7 +12,7 @@
     "static/js/3.b052c48b.chunk.js.map": "/static/js/3.b052c48b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.919d3f44.chunk.css.map": "/static/css/main.919d3f44.chunk.css.map",
+    "static/css/main.7c0c3ec7.chunk.css.map": "/static/css/main.7c0c3ec7.chunk.css.map",
     "static/js/2.0c4d2e5f.chunk.js.LICENSE.txt": "/static/js/2.0c4d2e5f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
@@ -154,7 +154,7 @@
     "static/js/runtime-main.9394a1db.js",
     "static/css/2.19627560.chunk.css",
     "static/js/2.0c4d2e5f.chunk.js",
-    "static/css/main.919d3f44.chunk.css",
+    "static/css/main.7c0c3ec7.chunk.css",
     "static/js/main.4dcbfc58.chunk.js"
   ]
 }
