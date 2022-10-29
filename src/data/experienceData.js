@@ -9,7 +9,7 @@ export const experienceData = [
                     <li>Generated visuals of various trends of revenue growth in time series sales data using Tableau.</li>
                     <li>Identified 20+ key factors driving revenue growth of installed bases in Australia and Japan.</li>
                     <li>Built predictive models to forecast revenue by applying algorithms such as Random Forest Regressor and LSTM.</li>
-                    <li>Reduced potential loss of over $36M by forecasting a decline in sales specific to Japanese clients.</li>
+                    <li>Reduced potential loss of over $6M by forecasting a decline in sales specific to Japanese clients.</li>
                 </ul>
     },
     {
